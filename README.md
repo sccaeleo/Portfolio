@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio, where I store the best of my creations! This is both a portfolio for professional use, and an archive for old projects.
+Hello! My name is Vic, also known as Skia. This is my portfolio and repository for 2D art, 3D art, and other projects that I've made. If you wish to contact me, you can do so at 
 
 # Game Design
 
@@ -22,7 +22,7 @@ This is from Materialize, a program that generates image maps to make materials 
 
 # 2D Art
 
-2D Art is what I have the most experience in. My favorite form is pixel art and sprites. I even have a little bit of experience animating sprites. A few examples can be found in the 2D Art folder, as well as here.
+2D Art is what I have the most experience in. My favorite form is pixel art and sprites. I have a bit of experience animating sprites. A few examples can be found in the 2D Art folder, as well as here.
 
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/d317c096-7fe5-4f7e-bc89-d05454f1bb34)
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/a396b3f0-db60-4ac3-ab51-711de008cf8f)
