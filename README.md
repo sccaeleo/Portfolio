@@ -4,7 +4,7 @@ Hello! My name is Vic, also known as Skia. This is my portfolio and repository f
 # Game Design
 
 My first foray into game design started with a class in high school. I don't remember what that class was called, but I remember it being one of my favorites. I still have my final project from that class, which is included in this repository. It is a simple game called Munch, where you are a small blob that gains mass by eating other blobs. Your goal is to become the biggest blob!
-
+https://github.com/sccaeleo/Portfolio/blob/main/2D%20Art/DungeonAssets.gif
 ![image](https://github.com/vhshelton/Portfolio/assets/90403647/aea3c1cd-ae05-473a-b16b-da150a0403f3)
 
 This game was made using Greenfoot, a program for learning java, created by Oracle and King's College. The whole project is available in the repository, if you want to take a closer look.
