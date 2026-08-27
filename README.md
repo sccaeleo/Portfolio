@@ -6,12 +6,12 @@ Hello! My name is Vic, also known as Skia. This is my portfolio and repository f
 I enjoy creating models both for 3D printing and use in games. If I need to create a low-poly model with simple textures, I usually use Blockbench. If I need to create a model for printing or a model with complex textures and materials, I use Blender. I have also used Materialize to create materials and maps.
 <table>
   <tr>
-    <td>Made with Blockbench<img width="400" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/Sea%20Dragon.gif"></td>
-    <td>Made with Blender<img width="400" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/GlitterDog.gif"></td>
+    <td>Made with Blockbench<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/Sea%20Dragon.gif"></td>
+    <td>Made with Blender<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/GlitterDog.gif"></td>
   </tr>
   <tr>
-    <td>Made with Blockbench<img width="400" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/Piper.gif"></td>
-    <td>Made with Blender<img width="400" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/hunter.png"></td>
+    <td>Made with Blockbench<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/Piper.gif"></td>
+    <td>Made with Blender<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/hunter.png"></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@ My strongest ability is in creating pixel art, tilesets, and spritesheets. I pri
     <td><img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/2D%20Art/Magma.png"></td>
     <td><img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/2D%20Art/Steamburnt.png"></td>
     <td><img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/2D%20Art/Sundog.png"></td>
-  </tr><td>
+  </tr>
   <tr>
     <td><img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/2D%20Art/Wimdy.png"></td>
     <td><img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/2D%20Art/yinyang.png"></td>
