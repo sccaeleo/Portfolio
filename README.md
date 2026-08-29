@@ -7,7 +7,7 @@ I enjoy creating models both for 3D printing and use in games. If I need to crea
 <table>
   <tr>
     <td>Made with Blockbench<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/Sea%20Dragon.gif"></td>
-    <td>Made with Blender<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/GlitterDog.gif"></td>
+    <td>Made with Blender<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/PlantDog.gif"></td>
   </tr>
   <tr>
     <td>Made with Blockbench<img width="300" src="https://github.com/sccaeleo/Portfolio/blob/main/3D%20Art/Piper.gif"></td>
